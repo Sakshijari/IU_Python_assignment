@@ -10,7 +10,5 @@ This project find the best ideal function using the least square method.
    ```bash
    pip install -r requirements.txt
 
-3. Run the Project
-   ```bash
-   python -u "main.py"
+3. Open ipynb file into jupyter Notebook
    
